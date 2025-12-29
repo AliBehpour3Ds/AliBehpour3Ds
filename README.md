@@ -8,7 +8,7 @@ I enjoy working on:
   - Game jam projects and fast iteration under constraints
 
 ---
-### What I'm working on:
+### What I'm working on
   - Improving and polishing my recent game jam project
   - Expanding my portfolio and public repositories
   - Continuously learning better ways to design and organize game systems
