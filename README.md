@@ -32,5 +32,6 @@ I enjoy working on:
   - 🌐 Itch.io: [itch link](https://alibehpour3ds.itch.io)
   - 💼 LinkedIn: [LinkedIn link](https://discordapp.com/users/1209239235450769475)
   - 💬 Discord: [Discord link](https://discordapp.com/users/1209239235450769475)
+  - 📧 Gmail: alibehpour3ds@gmail.com
 
 I'm open to collaborating with other developers and teams who care about learning, teamwork, and seeing projects through.
